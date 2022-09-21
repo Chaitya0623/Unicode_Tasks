@@ -1,3 +1,6 @@
 [submodule "Unicode_Django"]
 	path = Unicode_Django
 	url = https://github.com/Chaitya0623/Unicode_Django.git
+[submodule "Portfolio"]
+	path = Portfolio
+	url = https://github.com/Chaitya0623/Portfolio.git
