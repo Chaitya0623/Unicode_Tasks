@@ -4,3 +4,9 @@
 [submodule "Portfolio"]
 	path = Portfolio
 	url = https://github.com/Chaitya0623/Portfolio.git
+[submodule "React_Quiz"]
+	path = React_Quiz
+	url = https://github.com/Chaitya0623/React_Quiz.git
+[submodule "Covid19_Tracker"]
+	path = Covid19_Tracker
+	url = https://github.com/Chaitya0623/Covid19_Tracker.git
